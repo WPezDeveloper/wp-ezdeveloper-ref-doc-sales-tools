@@ -5,6 +5,11 @@ A collection of knowledge as it relates to pre-sales questions regarding WordPre
 
 ===============================================================================
 
-For when they ask: "Does speed really matter?" (Infographic)
+######Aug 2014: "40+ Most Notable Big Name Brands that are Using WordPress"
 
-Aug 2014 - http://speckyboy.com/2014/08/06/why-faster-websites-make-more-money/
+http://www.wpbeginner.com/showcase/40-most-notable-big-name-brands-that-are-using-wordpress/
+
+
+######Aug 2014: For when they ask: "Does speed really matter?" (Infographic)
+
+ - http://speckyboy.com/2014/08/06/why-faster-websites-make-more-money/

@@ -7,7 +7,7 @@ A collection of knowledge as it relates to pre-sales questions regarding WordPre
 
 ######Aug 2014: "40+ Most Notable Big Name Brands that are Using WordPress"
 
-http://www.wpbeginner.com/showcase/40-most-notable-big-name-brands-that-are-using-wordpress/
+- http://www.wpbeginner.com/showcase/40-most-notable-big-name-brands-that-are-using-wordpress/
 
 
 ######Aug 2014: For when they ask: "Does speed really matter?" (Infographic)

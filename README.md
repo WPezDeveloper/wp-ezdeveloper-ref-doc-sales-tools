@@ -5,6 +5,11 @@ A collection of knowledge as it relates to pre-sales questions regarding WordPre
 
 ===============================================================================
 
+######Aug 2014: "9 nightmare clients and how you can avoid them"
+
+- http://www.webdesignerdepot.com/2014/08/9-nightmare-clients-and-how-you-can-avoid-them
+
+
 ######Aug 2014: "40+ Most Notable Big Name Brands that are Using WordPress"
 
 - http://www.wpbeginner.com/showcase/40-most-notable-big-name-brands-that-are-using-wordpress/

@@ -5,7 +5,7 @@ A collection of knowledge as it relates to pre-sales questions regarding WordPre
 
 ===============================================================================
 
-####Oct 2014 - The Client’s Guide to What it Actually Takes to Create a Website
+#####Oct 2014 - The Client’s Guide to What it Actually Takes to Create a Website
 - http://www.sitepoint.com/clients-guide-actually-takes-create-website/
 
 #####Aug 2014: "9 nightmare clients and how you can avoid them"

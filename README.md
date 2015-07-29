@@ -13,6 +13,8 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### July 2015 - 10 Reasons To Use HTTPS
+ - https://medium.com/so-now-you-know/10-reasons-to-go-https-a2cba5734bb6
 
 
 ##### Oct 2014 - The Client’s Guide to What it Actually Takes to Create a Website

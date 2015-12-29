@@ -12,6 +12,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+#### Dec 2015 - 13 Impressive WordPress Stats Worth Bookmarking for Clients
+ - http://premium.wpmudev.org/blog/wordpress-stats/
+
 ##### Aug 2015 - 75+ Brands, Celebrities, And Famous Websites Using WordPress
  - http://torquemag.io/brands-celebrities-famous-websites-using-wordpress/
 

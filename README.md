@@ -12,6 +12,10 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### Jan 2016 - Six Reasons: Why WordPress?
+ - https://pantheon.io/six-reasons-why-wordpress
+ - 
+
 #### Dec 2015 - 13 Impressive WordPress Stats Worth Bookmarking for Clients
  - http://premium.wpmudev.org/blog/wordpress-stats/
 

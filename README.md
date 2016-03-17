@@ -12,6 +12,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+#####March 2016 - How To Convince Clients Of The Benefits Of Using WordPress
+ - http://torquemag.io/2016/03/benefits-of-using-wordpress/
+
 ##### Jan 2016 - Six Reasons: Why WordPress?
  - https://pantheon.io/six-reasons-why-wordpress
 

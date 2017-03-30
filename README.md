@@ -11,8 +11,10 @@ A collection of knowledge as it relates to pre-sales questions regarding WordPre
 https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
 
 ---
+##### March 2017 - Who Uses WordPress? How About These 100+ Famous Brands
+ - https://www.codeinwp.com/blog/who-uses-wordpress/
 
-#####March 2016 - How To Convince Clients Of The Benefits Of Using WordPress
+##### March 2016 - How To Convince Clients Of The Benefits Of Using WordPress
  - http://torquemag.io/2016/03/benefits-of-using-wordpress/
 
 ##### Jan 2016 - Six Reasons: Why WordPress?
